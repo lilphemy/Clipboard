@@ -1,0 +1,107 @@
+body {
+text-align: center;
+
+
+
+}
+
+
+header {
+background-image: URL('images/bg-header-mobile.png');
+background-position: cover;
+
+
+
+
+}
+
+
+IMG {
+height: 200px;
+width: 180px;
+
+
+
+}
+
+
+#watt {
+
+height: 50px;
+width: 50px;
+
+
+}
+
+
+
+#wall {
+
+padding: 20px;
+height: 80px;
+width: 120px;
+
+
+}
+
+
+
+#layer {
+width: 250px;
+height: 50px;
+border-radius: 2em;
+margin: 5px;
+color: white;
+font-size: 14px;
+
+
+}
+
+@media screen (min-width: 600) {
+
+background {
+
+width: 100%;
+height: 100%;
+
+
+
+}
+
+
+
+
+}
+
+
+
+#rend {
+height: 50px;
+width: 60px;
+margin-top: 20px;
+
+}
+
+
+footer {
+background-color: rgba(56, 48, 50, 0.1);
+
+
+
+}
+
+b {
+font-size: 20px;
+
+
+
+}
+
+
+#tint {
+margin: 15px;
+color: dogerblue;
+font-size: 20px;
+
+
+}
